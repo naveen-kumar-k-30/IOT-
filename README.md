@@ -7,6 +7,9 @@ This repository contains the source code and documentation for a real-time gestu
 - **Gesture Recognition**: Implements a convolutional neural network (CNN) for accurate interpretation of hand gestures.
 - **Relay Interface**: Interfaces with hardware relays to control external devices or appliances based on recognized gestures.
 - **User Interface**: Provides visual feedback to the user regarding gesture recognition results and relay activation status.
+- ## Requirements
+- Python 3.8: This project requires Python 3.8 to run. Make sure you have Python 3.8 installed on your system.
+- Mediapipe Compatibility: Please note that Mediapipe is supported only on Python 3.8. Ensure that you are using Python 3.8 for compatibility with Mediapipe.
 ## Setup
 1. **Clone the Repository**: `git clone https://github.com/Nav00nKumarK/IOT-.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
