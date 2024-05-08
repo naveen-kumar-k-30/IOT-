@@ -26,7 +26,7 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new pull request.
-6. ## Acknowledgements
+## Acknowledgements
 - [MediaPipe](https://mediapipe.dev/)
 - [PyFirmata](https://github.com/tino/pyFirmata)
 - [OpenCV](https://opencv.org/)
